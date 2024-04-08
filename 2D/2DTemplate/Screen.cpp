@@ -38,7 +38,7 @@ void InitScreen(void)
 
 	//テクスチャの読み込み
 	D3DXCreateTextureFromFile(pDevice,
-		"data\\TEXTURE\\unnamed.png",
+		"data\\TEXTURE\\IMG_5603.JPG",
 		&g_apTextureScreen
 	);
 
